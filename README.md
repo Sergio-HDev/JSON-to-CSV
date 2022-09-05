@@ -8,6 +8,8 @@ It has a function called 'transform' which makes the conversion. This function t
 
 Used as script, if you want, you can pass only the input name and it generates the ouput name with the input without '.json' and ending with '.csv'. Because the names are formated as raw strings, you can add the directory you want it to be searched or stored. If output name does not have '.csv' ending, the transform function adds it.
 
+# Examples
+
 Example of script use on Linux:
 
 ```
@@ -15,8 +17,6 @@ python json2csv.py ../../input.json ../output.csv
 ```
 
 In this example, the input file is two directories above the .py script and the output will be stored one directory above.
-
-# Examples
 
 Example of module use:
 
