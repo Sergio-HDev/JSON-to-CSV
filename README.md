@@ -10,7 +10,9 @@ Used as script, if you want, you can pass only the input name and it generates t
 
 Example of script use on Linux:
 
-```python json2csv.py ../../input.json ../output.csv```
+```
+python json2csv.py ../../input.json ../output.csv
+```
 
 In this example, the input file is two directories above the .py script and the output will be stored one directory above.
 
