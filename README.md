@@ -29,3 +29,4 @@ json2csv.transform("input.json", "output")
 ```
 
 In this example, the output does not have the '.csv' ending, but the program detects that and adds it.
+
