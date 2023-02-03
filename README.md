@@ -1,4 +1,7 @@
 # JSON to CSV
+
+Check my [LinkedIn](https://www.linkedin.com/in/sergio-hernandez-dominguez-dev/)
+
 This python script allows you to transform a JSON file to a CSV file. It can be used as script or a module for your projects.
 Feel free to use it or make any changes for your purpose.
 
